@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:08Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="b2d6c28d1d547b352f7fa47485675a413bf0d616" resname="header.created">
+        <source>Created</source>
+        <target xml:lang="fr">Créé</target>
+        <note>key: header.created</note>
+        <jms:reference-file>./Resources/public/js/views/popups/ezs-versionspopupview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="75ed8da3af3e3709fdb6b3948260de7ddbfedccb" resname="header.langugage">
+        <source>Language</source>
+        <target xml:lang="fr">Langue</target>
+        <note>key: header.langugage</note>
+        <jms:reference-file>./Resources/public/js/views/popups/ezs-versionspopupview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="9db918581df3f61169eac4b63ab45af067cc6ad7" resname="header.owner">
+        <source>Owner</source>
+        <target xml:lang="fr">Propriétaire</target>
+        <note>key: header.owner</note>
+        <jms:reference-file>./Resources/public/js/views/popups/ezs-versionspopupview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="bd15f9c1bebdeb97124e0e496df58d293cb53ce9" resname="label.viewing">
+        <source>Viewing</source>
+        <target xml:lang="fr">Voir</target>
+        <note>key: label.viewing</note>
+        <jms:reference-file>./Resources/public/js/views/popups/ezs-versionspopupview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="0cf782abc5072b99c19a47232fc4b245d5cf2ee3" resname="message.missing.language">
+        <source>Missing {language} translation</source>
+        <target xml:lang="fr">Traduction {language} manquante</target>
+        <note>key: message.missing.language</note>
+        <jms:reference-file>./Resources/public/js/views/popups/ezs-versionspopupview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="706fc2bbbfea11255a1cd13031cd79bb139283aa" resname="popup.title">
+        <source>Versions</source>
+        <target xml:lang="fr">Versions</target>
+        <note>key: popup.title</note>
+        <jms:reference-file>./Resources/public/js/views/popups/ezs-versionspopupview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="9590a909687522afb7e8c257275518d44a757941" resname="status.archived">
+        <source>Archived</source>
+        <target xml:lang="fr">Archivé</target>
+        <note>key: status.archived</note>
+        <jms:reference-file>./Resources/public/js/views/popups/ezs-versionspopupview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="0abfe8e0248c7f23c78328147857976f560be365" resname="status.draft">
+        <source>Draft</source>
+        <target xml:lang="fr">Brouillon</target>
+        <note>key: status.draft</note>
+        <jms:reference-file>./Resources/public/js/views/popups/ezs-versionspopupview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="1216b4287a5fc1be5eb29ecc9a0de2585e1a81bd" resname="status.published">
+        <source>Published</source>
+        <target xml:lang="fr">Publié</target>
+        <note>key: status.published</note>
+        <jms:reference-file>./Resources/public/js/views/popups/ezs-versionspopupview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

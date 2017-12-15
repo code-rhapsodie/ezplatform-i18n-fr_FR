@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:08Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="9436708004f723d02431155c0fc3f20be9b02005" resname="label.content">
+        <source>Content</source>
+        <target xml:lang="fr">Contenu</target>
+        <note>key: label.content</note>
+        <jms:reference-file>./Resources/public/templates/actions/draft.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="17ac1e4a2a3435442a0841898d9a519162ac2533" resname="label.create">
+        <source>Create</source>
+        <target xml:lang="fr">Créer</target>
+        <note>key: label.create</note>
+        <jms:reference-file>./Resources/public/js/views/actions/ezs-draftactionview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="ab2d4927d3132e8253b256c5c5ed1b1df1b0bc4e" resname="label.discard">
+        <source>Discard</source>
+        <target xml:lang="fr">Annuler</target>
+        <note>key: label.discard</note>
+        <jms:reference-file>./Resources/public/js/views/actions/ezs-draftactionview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="eb88f89369c1bb39994c9fdc2ceef0b682800443" resname="label.draft.delete">
+        <source>Delete draft</source>
+        <target xml:lang="fr">Supprimer le brouillon</target>
+        <note>key: label.draft.delete</note>
+        <jms:reference-file>./Resources/public/js/views/actions/ezs-draftactionview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="7eee43232a1f400d8a310359cc3c3b05740a84aa" resname="label.draft.save">
+        <source>Save draft</source>
+        <target xml:lang="fr">Sauvegarder le brouillon</target>
+        <note>key: label.draft.save</note>
+        <jms:reference-file>./Resources/public/js/views/actions/ezs-draftactionview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="78410c96f974592e4d19324c26d6f956c5b7c3f9" resname="label.landing.page">
+        <source>Landing Page</source>
+        <target xml:lang="fr">Landing Page</target>
+        <note>key: label.landing.page</note>
+        <jms:reference-file>./Resources/public/templates/actions/draft.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="9de137ad0308ca96eb2aa3c28b88d9021808ac9e" resname="label.loading">
+        <source>Loading</source>
+        <target xml:lang="fr">Chargement</target>
+        <note>key: label.loading</note>
+        <jms:reference-file>./Resources/public/templates/actions/draft.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="2bd8cd21c6684d8ac833dc4b30c7a8ece5de42ae" resname="label.publish">
+        <source>Publish</source>
+        <target xml:lang="fr">Publier</target>
+        <note>key: label.publish</note>
+        <jms:reference-file>./Resources/public/js/views/actions/ezs-draftactionview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

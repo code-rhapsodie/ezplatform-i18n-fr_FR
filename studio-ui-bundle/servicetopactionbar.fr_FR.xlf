@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:09Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="818176a300a75bcbf6027b1224e8a645b27be429" resname="error.redirect.parent.object">
+        <source>An error occurred when redirecting to parent object</source>
+        <target xml:lang="fr">Une erreur est survenue pendant la redirection vers l'objet parent</target>
+        <note>key: error.redirect.parent.object</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-topactionbarviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="2fec4e39b2527b8ecde45f71c296275f5603b1f9" resname="error.send.to.trash">
+        <source>An error occurred when sending to Trash</source>
+        <target xml:lang="fr">Une erreur est survenue pendant l'envoi à la corbeille</target>
+        <note>key: error.send.to.trash</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-topactionbarviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="52d060be83d639581db280650b7c23906d292d76" resname="message.sent.to.trash">
+        <source>Content Sent to Trash!</source>
+        <target xml:lang="fr">Contenu envoyé à la corbeille !</target>
+        <note>key: message.sent.to.trash</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-topactionbarviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="9e260268a606fb617e86f055664296c3ae19e6e5" resname="not.allowed.send.to.trash">
+        <source>You are not allowed to sent the content to trash</source>
+        <target xml:lang="fr">Vous n'êtes pas autorisé à envoyer ce contenu à la corbeille</target>
+        <note>key: not.allowed.send.to.trash</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-topactionbarviewservice.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

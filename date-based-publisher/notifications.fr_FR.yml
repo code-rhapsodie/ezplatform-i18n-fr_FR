@@ -1,0 +1,13 @@
+version.deleted: 'Le contenu programmé à été supprimé'
+
+content.published: 'Scheduled content has been published.'
+content.deleted: 'Scheduled content has been deleted.'
+content.updated: 'Scheduled content has been updated.'
+content.trashed: 'Scheduled content has been moved to trash.'
+content.in_review: 'Scheduled content has been sent to review.'
+
+content.published: 'Le contenu programmé à été publié.'
+content.deleted: 'Le contenu programmé à été supprimé.'
+content.updated: 'Le contenu programmé à été mis à jour.'
+content.trashed: 'Le contenu programmé à été placé dans la corbeille.'
+content.in_review: 'Le contenu programmé à été envoyé pour relecture.'

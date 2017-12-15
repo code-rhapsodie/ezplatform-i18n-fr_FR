@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:09Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="8c7f25da9808474df58038a54aa82f0fa671499e" resname="header.blockname">
+        <source>Block Name</source>
+        <target xml:lang="fr">Nom du bloc</target>
+        <note>key: header.blockname</note>
+        <jms:reference-file>./Resources/public/js/views/timeline/ezs-timelinecontentlistpageview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="1708b3d98ea6dda6e1d1921cccd465e6faa90b54" resname="header.contenttitle">
+        <source>Content Title</source>
+        <target xml:lang="fr">Titre du contenu</target>
+        <note>key: header.contenttitle</note>
+        <jms:reference-file>./Resources/public/js/views/timeline/ezs-timelinecontentlistpageview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="ae3f75eab570347b632dba5db131ecef6406738a" resname="header.time">
+        <source>Time</source>
+        <target xml:lang="fr">Temps</target>
+        <note>key: header.time</note>
+        <jms:reference-file>./Resources/public/js/views/timeline/ezs-timelinecontentlistpageview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="2dea2476c38dceed44aa2c8ebdc0c3bf4862e105" resname="header.type">
+        <source>Type</source>
+        <target xml:lang="fr">Type</target>
+        <note>key: header.type</note>
+        <jms:reference-file>./Resources/public/js/views/timeline/ezs-timelinecontentlistpageview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="1f23fd70edcbd140b21ac27fd7de7918e2aa9974" resname="type.addition">
+        <source>Addition</source>
+        <target xml:lang="fr">Addition</target>
+        <note>key: type.addition</note>
+        <jms:reference-file>./Resources/public/js/views/timeline/ezs-timelinecontentlistpageview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="be4497115b416c254d2d6c322290427ffe45a0c7" resname="type.overflow">
+        <source>Overflow</source>
+        <target xml:lang="fr">Overflow</target>
+        <note>key: type.overflow</note>
+        <jms:reference-file>./Resources/public/js/views/timeline/ezs-timelinecontentlistpageview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="f032989218c2febaee1239f2b67ca0a00f6d0b0c" resname="type.removed">
+        <source>Removed</source>
+        <target xml:lang="fr">Supprimé</target>
+        <note>key: type.removed</note>
+        <jms:reference-file>./Resources/public/js/views/timeline/ezs-timelinecontentlistpageview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

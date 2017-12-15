@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:09Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="13357a8f1de91157d596d94a43e5f8cd128b832b" resname="btn.next">
+        <source>Next</source>
+        <target xml:lang="fr">Suivant</target>
+        <note>key: btn.next</note>
+        <jms:reference-file>./Resources/public/js/views/timeline/ezs-timelinecontentlistview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="85a8938ec80448391b91d8fe48e5caf5b7a348d1" resname="btn.prev">
+        <source>Back</source>
+        <target xml:lang="fr">Retour</target>
+        <note>key: btn.prev</note>
+        <jms:reference-file>./Resources/public/js/views/timeline/ezs-timelinecontentlistview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="b641bbb6a6eb73c1d65bf62beb9e6bc7010fffb3" resname="label.time.range">
+        <source>%firstHour%:00 to %secondHour%:00</source>
+        <target xml:lang="fr">%firstHour%:00 à %secondHour%:00</target>
+        <note>key: label.time.range</note>
+        <jms:reference-file>./Resources/public/js/views/timeline/ezs-timelinecontentlistview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="153ff7fb752013c4c6887e3d27164d7dfe69764b" resname="message.multiple.items.airing">
+        <source> items airing</source>
+        <target xml:lang="fr"> objets en attente</target>
+        <note>key: message.multiple.items.airing</note>
+        <jms:reference-file>./Resources/public/js/views/timeline/ezs-timelinecontentlistview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="775185981c88f3161477a5a0dc3cf17103d85763" resname="message.no.items.airing">
+        <source>No items airing</source>
+        <target xml:lang="fr">Pas d'objets en attente</target>
+        <note>key: message.no.items.airing</note>
+        <jms:reference-file>./Resources/public/js/views/timeline/ezs-timelinecontentlistview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="cc827ed4e820eb85194062b726995d821e9161e5" resname="message.single.item.airing">
+        <source> item airing</source>
+        <target xml:lang="fr"> objet en attente</target>
+        <note>key: message.single.item.airing</note>
+        <jms:reference-file>./Resources/public/js/views/timeline/ezs-timelinecontentlistview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:08Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="2e80a6a4582d0467f05bdae99128d4d593a9d601" resname="label.edit.block">
+        <source>Edit this %name% block to add content</source>
+        <<target xml:lang="fr">Éditer le bloc %name% pour ajouter du contenu</target>
+        <note>key: label.edit.block</note>
+        <jms:reference-file>./Resources/public/js/views/blocks/ezs-blockview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

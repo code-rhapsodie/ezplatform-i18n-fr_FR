@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:08Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="9de137ad0308ca96eb2aa3c28b88d9021808ac9e" resname="label.loading">
+        <source>Loading</source>
+        <target xml:lang="fr">Chargement</target>
+        <note>key: label.loading</note>
+        <jms:reference-file>./Resources/public/templates/popups/slot-content-preview.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="d3225d014ff77a1630adf194792bd66ab5d09101" resname="message.loading">
+        <source>Loading preview...</source>
+        <target xml:lang="fr">Chargement de la prévisualisation...</target>
+        <note>key: message.loading</note>
+        <jms:reference-file>./Resources/public/js/views/popups/ezs-slotcontentpreviewpopupview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

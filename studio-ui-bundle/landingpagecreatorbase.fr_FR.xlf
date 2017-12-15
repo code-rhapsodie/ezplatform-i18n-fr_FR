@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:08Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="3c6de1b7dd91465d437ef415f94f36afc1fbc8a8" resname="title">
+        <source>Landing Page Creator</source>
+        <target xml:lang="fr">Créateur de Landing Page</target>
+        <note>key: title</note>
+        <jms:reference-file>./Resources/public/js/views/ezs-landingpagecreatorview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

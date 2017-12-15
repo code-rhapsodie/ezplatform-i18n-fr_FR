@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:09Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="deaa5e546328999d62cf6b2b4c611b5e00cbcff3" resname="error.load.content.model">
+        <source>Cannot load content model</source>
+        <target xml:lang="fr">Impossible de charger le modèle de contenu</target>
+        <note>key: error.load.content.model</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ezs-contentcreateredirectplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="2d7f50825c735bc186d3f95ef98e230ab62eec69" resname="error.load.list.location.aliases">
+        <source>Cannot list location aliases for location: %locationId%</source>
+        <target xml:lang="fr">Impossible de lister les alias de location de la location: %locationId%</target>
+        <note>key: error.load.list.location.aliases</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ezs-contentcreateredirectplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="c49bbcbc1f8ff0a6209c3204980a0858651f8c20" resname="error.load.url.alias">
+        <source>Cannot load URL alias for location</source>
+        <target xml:lang="fr">Impossible de charger l'URL alias pour la location</target>
+        <note>key: error.load.url.alias</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ezs-contentcreateredirectplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="610f0c6c78a1cd82345d5a21613be4fe404c0057" resname="error.publish.content">
+        <source>The content cannot be published (%message%)</source>
+        <target xml:lang="fr">Le contenu ne peut être publié (%message%)</target>
+        <note>key: error.publish.content</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ezs-contentcreateredirectplugin.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

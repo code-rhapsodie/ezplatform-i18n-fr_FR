@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:08Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="b30982f69b32c699048f320d4993d16111f66e08" resname="basics.title">
+        <source>Fill in the Basics</source>
+        <target xml:lang="fr">Remplir les Basics</target>
+        <note>key: basics.title</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-landingpageconfigpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="e6aa545c0b8f9b9027aef519c8ec041406531171" resname="btn.done">
+        <source>Done</source>
+        <target xml:lang="fr">Fin</target>
+        <note>key: btn.done</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-landingpageconfigpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="13357a8f1de91157d596d94a43e5f8cd128b832b" resname="btn.next">
+        <source>Next</source>
+        <target xml:lang="fr">Suivant</target>
+        <note>key: btn.next</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-landingpageconfigpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="85a8938ec80448391b91d8fe48e5caf5b7a348d1" resname="btn.prev">
+        <source>Previous</source>
+        <target xml:lang="fr">Précédent</target>
+        <note>key: btn.prev</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-landingpageconfigpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="1880237930370abb1c850cb3cf549d70db2b85d9" resname="confirmbox.btn.cancel">
+        <source>Cancel</source>
+        <target xml:lang="fr">Annuler</target>
+        <note>key: confirmbox.btn.cancel</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-landingpageconfigpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="d906a670f6eaf2c84eeef634a6c792de7d3e853d" resname="confirmbox.btn.confirm">
+        <source>Confirm</source>
+        <target xml:lang="fr">Confirmer</target>
+        <note>key: confirmbox.btn.confirm</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-landingpageconfigpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="fabbe2658ad8d697b0f002c3c1b6953eae286e0c" resname="confirmbox.title">
+        <source>Are you sure you want to cancel the landing page creation?</source>
+        <target xml:lang="fr">Êtes-vous sûr de vouloir supprimer la création de la Landing Page ?</target>
+        <note>key: confirmbox.title</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-landingpageconfigpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="7d9d2e382fb370bddadfd267599a3b1af521f7e4" resname="selector.title">
+        <source>Select a Layout</source>
+        <target xml:lang="fr">Sélectionner un Layout</target>
+        <note>key: selector.title</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-landingpageconfigpopupformview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

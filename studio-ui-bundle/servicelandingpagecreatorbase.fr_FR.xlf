@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:09Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="55bc10532104ff34853d3fb00f82b117182b469a" resname="error.fetch.embeded.content.meta.info">
+        <source>Cannot fetch embeded content meta information</source>
+        <target xml:lang="fr">Impossible de charger les metas informations du contenu embarqué</target>
+        <note>key: error.fetch.embeded.content.meta.info</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-landingpagecreatorservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="a900c421144db71a8e248e69e31be11d04c2520f" resname="new.content.type">
+        <source>New {contentTypeName}</source>
+        <target xml:lang="fr">Nouveau {contentTypeName}</target>
+        <note>key: new.content.type</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-landingpagecreatorservice.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

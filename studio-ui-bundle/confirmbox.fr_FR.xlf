@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:08Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="b147f8fdff73c852acf4f3263796615845e8f9d1" resname="btn.cancel">
+        <source>Cancel</source>
+        <target xml:lang="fr">Annuler</target>
+        <note>key: btn.cancel</note>
+        <jms:reference-file>./Resources/public/js/views/ezs-confirmboxview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="8ffcbf42ab7b3e1c9db21e3593ecd1437d9bafb7" resname="btn.confirm">
+        <source>Confirm</source>
+        <target xml:lang="fr">Confirmer</target>
+        <note>key: btn.confirm</note>
+        <jms:reference-file>./Resources/public/js/views/ezs-confirmboxview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

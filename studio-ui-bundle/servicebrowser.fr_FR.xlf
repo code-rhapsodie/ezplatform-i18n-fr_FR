@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:09Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="460010967a4e726c28a892a898717c2791d76d44" resname="error.get.landing.page.preview">
+        <source>Error occurred when getting landing page preview</source>
+        <target xml:lang="fr">Une erreur est survenue pendant le chargement de la prévisualisation de la landing page</target>
+        <note>key: error.get.landing.page.preview</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-browserviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="8a2928166b3bbf76a5036cab241141ba8a86c3ec" resname="error.list.location.aliases">
+        <source>Cannot list location aliases for location: %parentId%</source>
+        <target xml:lang="fr">Impossible de lister les alias de location pour la location: %parentId%</target>
+        <note>key: error.list.location.aliases</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-browserviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="6d22fcb352e163551e559d415bad6409872fcff3" resname="error.load.content.data">
+        <source>Cannot load content data</source>
+        <target xml:lang="fr">Impossible de charger les données du contenu</target>
+        <note>key: error.load.content.data</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-browserviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="c027d991fb9e868731f0f0856ccdb8bae58123df" resname="error.load.content.version.data">
+        <source>Cannot load content version data</source>
+        <target xml:lang="fr">Impossible de charger les données de la version du contenu</target>
+        <note>key: error.load.content.version.data</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-browserviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="699c2eb516d405e9d94b9127e91ce96cfacf7b52" resname="error.load.current.content.version.data">
+        <source>Cannot load current content version data</source>
+        <target xml:lang="fr">Impossible de charger les données de la version courante du contenu</target>
+        <note>key: error.load.current.content.version.data</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-browserviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="eda50e6669fd0e52453ac87922fd51f29f74e3c2" resname="error.load.preview.content.info">
+        <source>Cannot load preview content info</source>
+        <target xml:lang="fr">Impossible de charger les infos de prévisualisation du contenu</target>
+        <note>key: error.load.preview.content.info</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-browserviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="84104bf4684df43c3861875ec9288924483491a1" resname="error.load.preview.content.location.info">
+        <source>Cannot load preview content location info</source>
+        <target xml:lang="fr">Impossible de charger les infos de prévisualisation de la location</target>
+        <note>key: error.load.preview.content.location.info</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-browserviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="669cb3864cefe7bc20e1465b8a2eb5fbb5f3ce70" resname="error.load.preview.content.parents">
+        <source>Cannot load preview content parents</source>
+        <target xml:lang="fr">Impossible de charger la prévisualisation des contenus parents</target>
+        <note>key: error.load.preview.content.parents</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-browserviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="e43be0ab1d770e27305785397b74d6a19317c870" resname="error.load.preview.content.type.info">
+        <source>Cannot load preview content type info</source>
+        <target xml:lang="fr">Impossible de charger la prévisualisation des infos du type de contenu</target>
+        <note>key: error.load.preview.content.type.info</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-browserviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="9eded562d14c4c525a1826a0e74cc11e37cc2054" resname="error.load.preview.content.versions.info">
+        <source>Cannot load preview content versions info</source>
+        <target xml:lang="fr">Impossible de charger la prévisualisation des infos des versions du contenu</target>
+        <note>key: error.load.preview.content.versions.info</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-browserviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="c49bbcbc1f8ff0a6209c3204980a0858651f8c20" resname="error.load.url.alias">
+        <source>Cannot load URL alias for location</source>
+        <target xml:lang="fr">Impossible de charger l'URL alias de la location</target>
+        <note>key: error.load.url.alias</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-browserviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="d5cce6f086a3152cd35b6e32f3af68f35b60463e" resname="error.load.user.data">
+        <source>Cannot load user data</source>
+        <target xml:lang="fr">Impossible de charger les données utilisateur</target>
+        <note>key: error.load.user.data</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-browserviewservice.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

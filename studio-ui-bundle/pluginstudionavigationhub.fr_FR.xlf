@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:09Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="c04b1ff9bb808b75ec70606fdc213b391fac0c70" resname="error.load.content.root.location">
+        <source>Could not load the content root location</source>
+        <target xml:lang="fr">Impossible de charger la location racine</target>
+        <note>key: error.load.content.root.location</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ezs-studionavigationhubplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="2d7f50825c735bc186d3f95ef98e230ab62eec69" resname="error.load.list.location.aliases">
+        <source>Cannot list location aliases for location: %locationId%</source>
+        <target xml:lang="fr">Impossible de lister alias de location pour la location: %locationId%</target>
+        <note>key: error.load.list.location.aliases</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ezs-studionavigationhubplugin.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

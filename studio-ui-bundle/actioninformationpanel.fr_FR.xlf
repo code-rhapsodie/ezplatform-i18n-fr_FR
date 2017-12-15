@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:08Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="892afb28c4c5e9e0508036909aa8a1b5fd857a8a" resname="label.createdby">
+        <source>Created by %author% on %date%</source>
+        <target xml:lang="fr">Crée par %author% le %date%</target>
+        <note>key: label.createdby</note>
+        <jms:reference-file>./Resources/public/js/views/actions/ezs-informationpanelactionview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="fbf7d2d715f363dc753df499a7c56b22b724cfe7" resname="label.edited">
+        <source>Last edited by %author% on %date%</source>
+        <target xml:lang="fr">Édité en dernier par %author% le %date%</target>
+        <note>key: label.edited</note>
+        <jms:reference-file>./Resources/public/js/views/actions/ezs-informationpanelactionview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="26fa7b0317942f4deab095f58e0bd1b910995716" resname="state.creating">
+        <source>Creating New Landing Page</source>
+        <target xml:lang="fr">Créer une nouvelle Landing Page</target>
+        <note>key: state.creating</note>
+        <jms:reference-file>./Resources/public/js/views/actions/ezs-informationpanelactionview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="f392c7054220b8ad31e6c83d42680affdf9733f3" resname="state.editing">
+        <source>Editing</source>
+        <target xml:lang="fr">Édition</target>
+        <note>key: state.editing</note>
+        <jms:reference-file>./Resources/public/js/views/actions/ezs-informationpanelactionview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="6eb4da2cfe2b3a4bcc52576384b9f46b5bca5464" resname="state.reviewing">
+        <source>Reviewing</source>
+        <target xml:lang="fr">Relire</target>
+        <note>key: state.reviewing</note>
+        <jms:reference-file>./Resources/public/js/views/actions/ezs-informationpanelactionview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="c5187d654f8b592cb38dbae3e572892cd74eefe4" resname="state.viewing">
+        <source>Viewing</source>
+        <target xml:lang="fr">Visionner</target>
+        <note>key: state.viewing</note>
+        <jms:reference-file>./Resources/public/js/views/actions/ezs-informationpanelactionview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
