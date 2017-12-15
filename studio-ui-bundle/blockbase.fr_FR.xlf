@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="2e80a6a4582d0467f05bdae99128d4d593a9d601" resname="label.edit.block">
         <source>Edit this %name% block to add content</source>
-        <<target xml:lang="fr">Éditer le bloc %name% pour ajouter du contenu</target>
+        <target xml:lang="fr">Éditer le bloc %name% pour ajouter du contenu</target>
         <note>key: label.edit.block</note>
         <jms:reference-file>./Resources/public/js/views/blocks/ezs-blockview.js</jms:reference-file>
       </trans-unit>
