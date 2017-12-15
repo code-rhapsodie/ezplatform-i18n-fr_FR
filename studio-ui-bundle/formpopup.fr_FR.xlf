@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:08Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="4fd0653c4f2aef3b19a3c145bbdc5f4740715a09" resname="cancel">
+        <source>Cancel</source>
+        <target xml:lang="fr">Annuler</target>
+        <note>key: cancel</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-popupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="da38860cb875cb64092e402d80d9fe29c4865b18" resname="close">
+        <source>Close</source>
+        <target xml:lang="fr">Fermer</target>
+        <note>key: close</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-popupformview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

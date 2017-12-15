@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:08Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="2082450e81bad9072846b4d3db459ff12dcfd98e" resname="action.menu.addcontent">
+        <source>Add content</source>
+        <target xml:lang="fr">Ajouter du contenu</target>
+        <note>key: action.menu.addcontent</note>
+        <jms:reference-file>./Resources/public/js/views/blocks/ezs-scheduleblockview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="8ba0dfee5120a5261f458641639dff852049ff94" resname="action.menu.delete">
+        <source>Delete block</source>
+        <target xml:lang="fr">Supprimer le bloc</target>
+        <note>key: action.menu.delete</note>
+        <jms:reference-file>./Resources/public/js/views/blocks/ezs-scheduleblockview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="de5281b0c2de0a99209bd78997030ec8aad073e0" resname="action.menu.settings">
+        <source>Block settings</source>
+        <target xml:lang="fr">Options du bloc</target>
+        <note>key: action.menu.settings</note>
+        <jms:reference-file>./Resources/public/js/views/blocks/ezs-scheduleblockview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="ced57b181cd55e87b12f96ab631de4dbeac2d7aa" resname="error.content.already.visible">
+        <source>The content is already visible in the block: %contentName%</source>
+        <target xml:lang="fr">Le contenu est deja visible dans le bloc: %contentName%</target>
+        <note>key: error.content.already.visible</note>
+        <jms:reference-file>./Resources/public/js/views/blocks/ezs-scheduleblockview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="c445068c0187e7797d3a7f22ff7448f47696dbc7" resname="error.image.loading">
+        <source>Error occured when waiting for all images to be loaded in the schedule block preview</source>
+        <target xml:lang="fr">Une erreur est survenue pendant l'attente du chargement des images de la pré visualisation du bloc de contenu programmé</target>
+        <note>key: error.image.loading</note>
+        <jms:reference-file>./Resources/public/js/views/blocks/ezs-scheduleblockview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="a4670e19b4e4a4120e4cb3ef53298aec7033bf2b" resname="message.overflow.confirm">
+        <source>Adding %newContentName% at %time% on %date% will push out %oldContentName%. Continue?</source>
+        <target xml:lang="fr">Ajouter %newContentName% à %time% le %date% va remplacer %oldContentName%. Continuer ?</target>
+        <note>key: message.overflow.confirm</note>
+        <jms:reference-file>./Resources/public/js/views/blocks/ezs-scheduleblockview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

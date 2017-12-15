@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:09Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="cb2efb93692fef4a437b3ee4b92884c6525bc037" resname="btn.edit">
+        <source>Edit</source>
+        <target xml:lang="fr">Éditer</target>
+        <note>key: btn.edit</note>
+        <jms:reference-file>./Resources/public/templates/actions/contentstateswitch.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="aff2346baedcd022955c4c52bbe300c31c389af3" resname="btn.view">
+        <source>View</source>
+        <target xml:lang="fr">Voir</target>
+        <note>key: btn.view</note>
+        <jms:reference-file>./Resources/public/templates/actions/contentstateswitch.hbt</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

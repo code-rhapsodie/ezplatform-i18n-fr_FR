@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:08Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="743a609a699ef4a726fad3ae5c90b495bdf17ae5" resname="error.missing.blocks.config">
+        <source>There is missing blocks configuration. Please provide configuration for all the blocks.</source>
+        <target xml:lang="fr">Il manque des configurations de blocs. Merci de faire les configurations des blocs.</target>
+        <note>key: error.missing.blocks.config</note>
+        <jms:reference-file>./Resources/public/js/views/ezs-dynamiclandingpagecreatorview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="9dec615c75be894c6e89c1b009f3eb9819226d3a" resname="message.notfilled.schedule.blocks">
+        <source>Not all the slots are filled in schedule block(s). Continue?</source>
+        <target xml:lang="fr">Tout les emplacements de(s) bloc(s) programmé(s) ne sont pas remplis. Continuer ?</target>
+        <note>key: message.notfilled.schedule.blocks</note>
+        <jms:reference-file>./Resources/public/js/views/ezs-dynamiclandingpagecreatorview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

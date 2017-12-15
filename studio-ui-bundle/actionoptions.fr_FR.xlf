@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:08Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes"  id="fabbe2658ad8d697b0f002c3c1b6953eae286e0c" resname="confirmbox.title">
+        <source>Are you sure you want to send this content and its subitems to the trash?</source>
+        <target xml:lang="fr">Êtes-vous sûr de vouloir envoyer ce contenu et ses sous objets dans la corbeille ?</target>
+        <note>key: confirmbox.title</note>
+        <jms:reference-file>./Resources/public/js/views/actions/ezs-optionsactionview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="ea119f1754aa39447d12a5d3aa214c5b8b435aee" resname="label.copy.url">
+        <source>Copy URL</source>
+        <target xml:lang="fr">Copier l'URL</target>
+        <note>key: label.copy.url</note>
+        <jms:reference-file>./Resources/public/templates/actions/options.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="5b9e51ed5ec6a48f2d62ba439e8341e9f2f9c48e" resname="label.options">
+        <source>Options</source>
+        <target xml:lang="fr">Options</target>
+        <note>key: label.options</note>
+        <jms:reference-file>./Resources/public/templates/actions/options.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="8d76f39aeba59f1d736b05523a6a5825db80e58b" resname="label.send.to.trash">
+        <source>Send to Trash</source>
+        <target xml:lang="fr">Envoyer à la corbeille</target>
+        <note>key: label.send.to.trash</note>
+        <jms:reference-file>./Resources/public/js/views/actions/ezs-optionsactionview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/actions/options.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes"  id="987e6c742b40a9d6eb7d5f42770598de207578b5" resname="notification.copied">
+        <source>Copied!</source>
+        <target xml:lang="fr">Copié !</target>
+        <note>key: notification.copied</note>
+        <jms:reference-file>./Resources/public/js/views/actions/ezs-optionsactionview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

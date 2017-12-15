@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:09Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="6d22fcb352e163551e559d415bad6409872fcff3" resname="error.load.content.data">
+        <source>Cannot load content data</source>
+        <target xml:lang="fr">Impossible de charger les données du contenu</target>
+        <note>key: error.load.content.data</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-dynamiclandingpageeditorviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="c027d991fb9e868731f0f0856ccdb8bae58123df" resname="error.load.content.version.data">
+        <source>Cannot load content version data</source>
+        <target xml:lang="fr">Impossible de charger les données de la version du contenu</target>
+        <note>key: error.load.content.version.data</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-dynamiclandingpageeditorviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="8e0a928a338a85d96d3fc9d54e61383a17a494bc" resname="error.load.location.data">
+        <source>Cannot load location data</source>
+        <target xml:lang="fr">Impossible de charger les données de la location</target>
+        <note>key: error.load.location.data</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-dynamiclandingpageeditorviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="2808cdc5734a1418c363d6beac35e0b822b93d6e" resname="error.load.parent.content.path">
+        <source>Cannot load parent content path</source>
+        <target xml:lang="fr">Impossible de charger le chemin du contenu parent</target>
+        <note>key: error.load.parent.content.path</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-dynamiclandingpageeditorviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="0b7bdf510b7e2c497802991063e53e88a5f51b00" resname="error.load.slot.content.info">
+        <source>Cannot load slot content info</source>
+        <target xml:lang="fr">Impossible de charger l'emplacement de l'info du contenu</target>
+        <note>key: error.load.slot.content.info</note>
+        <jms:reference-file>./Resources/public/js/views/services/ezs-dynamiclandingpageeditorviewservice.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

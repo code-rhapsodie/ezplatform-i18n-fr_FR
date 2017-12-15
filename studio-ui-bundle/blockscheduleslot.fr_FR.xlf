@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:08Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="e618d7012bdd0d00fe0e6a22962228e8a8becff6" resname="action.menu.airtime">
+        <source>Airtime</source>
+        <target xml:lang="fr">Airtime</target>
+        <note>key: action.menu.airtime</note>
+        <jms:reference-file>./Resources/public/js/views/blocks/ezs-scheduleblockslotview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="37faf1a99ec40a11231d975327aacde582c1c469" resname="action.menu.preview">
+        <source>Preview</source>
+        <target xml:lang="fr">Prévisualisation</target>
+        <note>key: action.menu.preview</note>
+        <jms:reference-file>./Resources/public/js/views/blocks/ezs-scheduleblockslotview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="5405f2f25514ceeeb2d17522e6db9ddf6ac95f36" resname="action.menu.remove">
+        <source>Remove</source>
+        <target xml:lang="fr">Supprimer</target>
+        <note>key: action.menu.remove</note>
+        <jms:reference-file>./Resources/public/js/views/blocks/ezs-scheduleblockslotview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="6321671b6a64741206cff444a8bfd032b47178db" resname="action.menu.remove.item">
+        <source>Remove item</source>
+        <target xml:lang="fr">Supprimer l'objet</target>
+        <note>key: action.menu.remove.item</note>
+        <jms:reference-file>./Resources/public/js/views/blocks/ezs-scheduleblockslotview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="1b3e97a095cf0038873de0f953d74a730b7c24b8" resname="empty.slot.action.label">
+        <source>Click to Add Content from Recent History</source>
+        <target xml:lang="fr">Cliquer pour ajouter du contenu depuis l'historique récent</target>
+        <note>key: empty.slot.action.label</note>
+        <jms:reference-file>./Resources/public/templates/blocks/schedule-slot.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="b523afd2db2493792d87740eb971c59f4708a603" resname="empty.slot.label">
+        <source>Empty Slot</source>
+        <target xml:lang="fr">Emplacement vide</target>
+        <note>key: empty.slot.label</note>
+        <jms:reference-file>./Resources/public/templates/blocks/schedule-slot.hbt</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-04T15:50:00Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="e03b048b26277c0fcd2e4a8896714c250886cbf2" resname="block.button.back">
+        <source>Back</source>
+        <target xml:lang="fr">Retour</target>
+        <note>key: block.button.back</note>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/all-scheduled-content.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/my-scheduled-content.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="5684d6c3a5c514d1f095fdee4f84cb94be38a17e" resname="block.button.next">
+        <source>Next</source>
+        <target xml:lang="fr">Suivant</target>
+        <note>key: block.button.next</note>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/all-scheduled-content.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/my-scheduled-content.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="b48a71a6775907f406325e93cff3ed5c04e9ce45" resname="block.error.message">
+        <source>An error occurred while loading the content list.</source>
+        <target xml:lang="fr">Une erreur est survenue lors du chargement de la liste de contenu.</target>
+        <note>key: block.error.message</note>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/all-scheduled-content.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/my-scheduled-content.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="3bc1fbc31b8e848d0fa82a6919225aa52ba4f531" resname="block.error.retry">
+        <source>Retry</source>
+        <target xml:lang="fr">Réessayer</target>
+        <note>key: block.error.retry</note>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/all-scheduled-content.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/my-scheduled-content.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="e4f545668f22ed9504091ab77aaa656b45c7c6ca" resname="block.no.result">
+        <source>You haven't scheduled any content item yet.</source>
+        <target xml:lang="fr">Vous n'avez pas programmé de contenu pour le moment.</target>
+        <note>key: block.no.result</note>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/all-scheduled-content.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/my-scheduled-content.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="238e54413bb104e9be86d8c28059aa67dc9c3807" resname="block.page">
+        <source>Page</source>
+        <target xml:lang="fr">Page</target>
+        <note>key: block.page</note>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/all-scheduled-content.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/my-scheduled-content.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="91618b8eb88ef329f3ff89a8a0e8e6bf4363e245" resname="block.table.author">
+        <source>Author</source>
+        <target xml:lang="fr">Auteur</target>
+        <note>key: block.table.author</note>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/all-scheduled-content.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="30e5bdb5af6b7ddb97549c83ed4c9a0647b210db" resname="block.table.content.type">
+        <source>Content Type</source>
+        <target xml:lang="fr">Type de contenu</target>
+        <note>key: block.table.content.type</note>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/all-scheduled-content.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/my-scheduled-content.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="7901c9354f77a42efb13f558c1a85fa61d7b395a" resname="block.table.modification.date">
+        <source>Last saved</source>
+        <target xml:lang="fr">Dernière sauvegarde</target>
+        <note>key: block.table.modification.date</note>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/all-scheduled-content.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/my-scheduled-content.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="92e2de0aef88b7bb9fe2508cd6ceb4b7bff9df12" resname="block.table.publication.date">
+        <source>Publication Date</source>
+        <target xml:lang="fr">Date de publication</target>
+        <note>key: block.table.publication.date</note>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/all-scheduled-content.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/my-scheduled-content.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="3ed7ad82ecc3657da560b8a7c97c5c54f836335a" resname="block.table.title">
+        <source>Title</source>
+        <target xml:lang="fr">Titre</target>
+        <note>key: block.table.title</note>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/all-scheduled-content.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/my-scheduled-content.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="cc8339fc78386596004230dd5ef68185c37f409d" resname="block.title">
+        <source>%possessiveDeterminer% Drafts Scheduled for Future Publication</source>
+        <target xml:lang="fr">%possessiveDeterminer% Brouillons programmés pour une future publication</target>
+        <note>key: block.title</note>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/all-scheduled-content.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboardblocks/my-scheduled-content.hbt</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

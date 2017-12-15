@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:08Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="cb329146a0dd0d566b0628744d67936558741ffa" resname="description">
+        <source> </source>
+        <target xml:lang="fr"> </target>
+        <note>key: description</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-airtimeblockpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="106c582b9c78c9a990e193ae6a0c2e63db6688e7" resname="field.date.date.name">
+        <source>Date</source>
+        <target xml:lang="fr">Date</target>
+        <note>key: field.date.date.name</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-airtimeblockpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="22a65a7d72e716ca79e3bde2e5e1979f70b226bf" resname="field.input.hour.name">
+        <source>Time</source>
+        <target xml:lang="fr">Temps</target>
+        <note>key: field.input.hour.name</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-airtimeblockpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="5153cb6e81ac313a5f6df1fd322634c3473daaa3" resname="field.input.minute.name">
+        <source>:</source>
+        <target xml:lang="fr">:</target>
+        <note>key: field.input.minute.name</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-airtimeblockpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="8db40e7a3b873d3394d8897da6fce35e4df05ca6" resname="field.slider.hour.name">
+        <source>Hour</source>
+        <target xml:lang="fr">Heure</target>
+        <note>key: field.slider.hour.name</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-airtimeblockpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="3a430faaa163534f8ea4e4d9866322c752af0d5e" resname="field.slider.minute.name">
+        <source>Minutes</source>
+        <target xml:lang="fr">Minutes</target>
+        <note>key: field.slider.minute.name</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-airtimeblockpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="3c6de1b7dd91465d437ef415f94f36afc1fbc8a8" resname="title">
+        <source>Content Airtime Settings</source>
+        <target xml:lang="fr">Options contenu Airtime</target>
+        <note>key: title</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-airtimeblockpopupformview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

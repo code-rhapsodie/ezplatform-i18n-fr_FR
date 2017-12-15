@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:08Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="cb329146a0dd0d566b0628744d67936558741ffa" resname="description">
+        <source> </source>
+        <target xml:lang="fr"> </target>
+        <note>key: description</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-scheduleblockpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="177eb64019bdbe039f4c03d452ab2c716f18e1c6" resname="field.radio.isoverflow.name">
+        <source>Overflow</source>
+        <target xml:lang="fr">Overflow</target>
+        <note>key: field.radio.isoverflow.name</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-scheduleblockpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="1386de54c03a7e328e27efb3da83749c172f2ac4" resname="field.radio.isoverflow.option.off.label">
+        <source>Off</source>
+        <target xml:lang="fr">Off</target>
+        <note>key: field.radio.isoverflow.option.off.label</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-scheduleblockpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="e9363065edb9a33298a63f647acbf1e6f625ac3b" resname="field.radio.isoverflow.option.on.label">
+        <source>On</source>
+        <target xml:lang="fr">On</target>
+        <note>key: field.radio.isoverflow.option.on.label</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-scheduleblockpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="60e49211fa06b685ef854442da6a8b68c0089883" resname="field.select.overflow.calltoaction">
+        <source>Select an Overflow Block</source>
+        <target xml:lang="fr">Selectionner un bloc d'overflow</target>
+        <note>key: field.select.overflow.calltoaction</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-scheduleblockpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="f345166c44d37336bc2d0345d5a9cf38b1eb2be3" resname="field.select.template.calltoaction">
+        <source>Select a Template</source>
+        <target xml:lang="fr">Selectionner un template</target>
+        <note>key: field.select.template.calltoaction</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-scheduleblockpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="fd02ba787174e8c7593eea61e063be3a366a45d0" resname="field.select.template.name">
+        <source>Template</source>
+        <target xml:lang="fr">Template</target>
+        <note>key: field.select.template.name</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-scheduleblockpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="3c6de1b7dd91465d437ef415f94f36afc1fbc8a8" resname="title">
+        <source>Schedule block settings</source>
+        <target xml:lang="fr">Options du bloc programmé</target>
+        <note>key: title</note>
+        <jms:reference-file>./Resources/public/js/views/forms/ezs-scheduleblockpopupformview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

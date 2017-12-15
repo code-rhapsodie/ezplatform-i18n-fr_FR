@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-12T12:24:08Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="6c0d5502adfe58ddca061883afa0d3b4a911964c" resname="group.basics.title">
+        <source>Basics</source>
+        <target xml:lang="fr">Basics</target>
+        <note>key: group.basics.title</note>
+        <jms:reference-file>./Resources/public/js/views/ezs-landingpagetoolbarview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="7709b27e60b4364f05119087c0f953163bb2d16f" resname="group.elements.title">
+        <source>Elements</source>
+        <target xml:lang="fr">Éléments</target>
+        <note>key: group.elements.title</note>
+        <jms:reference-file>./Resources/public/js/views/ezs-landingpagetoolbarview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

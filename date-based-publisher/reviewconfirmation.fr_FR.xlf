@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-04T15:50:00Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="7e08a4d8383b4c433740b0e076e56413276f3a4f" resname="review.confirmation">
+        <source>Do you want to continue?</source>
+        <target xml:lang="fr">Voulez-vous continuer ?</target>
+        <note>key: review.confirmation</note>
+        <jms:reference-file>./Resources/public/js/plugins/dbp-reviewbuttonviewplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="bafb19f6f2919771be1184b85f6360b599627f64" resname="review.explanation">
+        <source>If you send for review you will delete the content item's future publication date.</source>
+        <target xml:lang="fr">Si vous envoyez pour relecture, vous supprimerez la date de publication future du contenu</target>
+        <note>key: review.explanation</note>
+        <jms:reference-file>./Resources/public/js/plugins/dbp-reviewbuttonviewplugin.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

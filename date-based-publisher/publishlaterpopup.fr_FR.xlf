@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-04T15:50:00Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="1ef3283394db490431650d451e95d9be5bb0783b" resname="popup.date.name">
+        <source>Date</source>
+        <target xml:lang="fr">Date</target>
+        <note>key: popup.date.name</note>
+        <jms:reference-file>./Resources/public/js/views/forms/dbp-publishlaterpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="706fc2bbbfea11255a1cd13031cd79bb139283aa" resname="popup.title">
+        <source>Future publication setting</source>
+        <target xml:lang="fr">Option de la future publication</target>
+        <note>key: popup.title</note>
+        <jms:reference-file>./Resources/public/js/views/forms/dbp-publishlaterpopupformview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="d36800b6a088cea28e42bf7fa747f59637aa0198" resname="popup.tooltip">
+        <source>Select a time in the future</source>
+        <target xml:lang="fr">Selectionner un date dans le futur</target>
+        <note>key: popup.tooltip</note>
+        <jms:reference-file>./Resources/public/js/views/forms/dbp-publishlaterpopupformview.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2017-01-04T15:50:00Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="5af49f818362f658020dc9992c90f288cacd9802" resname="error.all.content.list">
+        <source>Failed to load list of all scheduled content</source>
+        <target xml:lang="fr">Echec du chargement des contenus programmés</target>
+        <note>key: error.all.content.list</note>
+        <jms:reference-file>./Resources/public/js/plugins/dbp-dashboardviewserviceplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="78526190683834b7ee41ac1517321266625d2fb6" resname="error.publication.discard">
+        <source>An error occurred while discarding publication date</source>
+        <target xml:lang="fr">Une erreur est survenue lors de l'annulation de la date de publication</target>
+        <note>key: error.publication.discard</note>
+        <jms:reference-file>./Resources/public/js/plugins/dbp-schedulepublishplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="c7d4305efe7a3217f940ca5e3821668c1395b3d8" resname="error.publishing">
+        <source>An error occurred while publishing in the future</source>
+        <target xml:lang="fr">Une erreur est survenue pendant la publication dans le future</target>
+        <note>key: error.publishing</note>
+        <jms:reference-file>./Resources/public/js/plugins/dbp-schedulepublishplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="b0167e916191166a7cda11dd047033e878f37084" resname="error.user.content.list">
+        <source>Failed to load list of content scheduled by the user</source>
+        <target xml:lang="fr">Echec du chargement de la liste des contenus programmés par l'utilsiateur</target>
+        <note>key: error.user.content.list</note>
+        <jms:reference-file>./Resources/public/js/plugins/dbp-dashboardviewserviceplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="ace4d8c43b4f993e533a527933b7fd0587cf60d5" resname="error.user.token">
+        <source>An error occured while getting user token</source>
+        <target xml:lang="fr">Une erreur est survenue lors de la récupération de la clé utilisateur</target>
+        <note>key: error.user.token</note>
+        <jms:reference-file>./Resources/public/js/plugins/dbp-schedulepublishplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="61048edd936ea055159c25380728b2c0b633bb2c" resname="new.notification.text">
+        <source>New notification: %notificationMessage%</source>
+        <target xml:lang="fr">Nouvelle notification: %notificationMessage%</target>
+        <note>key: new.notification.text</note>
+        <jms:reference-file>./Resources/public/js/plugins/dbp-notificationmessagecreatorplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="6929ba2b7b4b9c2ddcfd20e0990a500a15534513" resname="notification.canceled">
+        <source>Future publication canceled</source>
+        <target xml:lang="fr">Future publication annulée</target>
+        <note>key: notification.canceled</note>
+        <jms:reference-file>./Resources/public/js/plugins/dbp-notificationstructparserplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="a812abef17fbd434e4f9bb6a81386af65310a24c" resname="notification.in.progress">
+        <source>Future publication in progress</source>
+        <target xml:lang="fr">Publication future en cours</target>
+        <note>key: notification.in.progress</note>
+        <jms:reference-file>./Resources/public/js/plugins/dbp-schedulepublishplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="0afbc9226eb0ee3148feeb1f90fbb44dce43f9bd" resname="notification.publication.confirmed">
+        <source>Future publication confirmed</source>
+        <target xml:lang="fr">Publication future confirmée</target>
+        <note>key: notification.publication.confirmed</note>
+        <jms:reference-file>./Resources/public/js/plugins/dbp-schedulepublishplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="3c0cf378347605c4895a2e153fcab82a80e7543b" resname="notification.publication.discarded">
+        <source>The publication date of the draft has been discarded</source>
+        <target xml:lang="fr">La date de publication du brouillon à été annulée</target>
+        <note>key: notification.publication.discarded</note>
+        <jms:reference-file>./Resources/public/js/plugins/dbp-schedulepublishplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="1d515dbd7caf1c9bd3942b4bf4e8a1a4258c323e" resname="notification.published">
+        <source>Scheduled draft published</source>
+        <target xml:lang="fr">Brouillon programmé annulé</target>
+        <note>key: notification.published</note>
+        <jms:reference-file>./Resources/public/js/plugins/dbp-notificationstructparserplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit approved="yes" id="1c91fe849525c315015b2e765f6600fd199e78a0" resname="notification.title">
+        <source>Title: %contentName%</source>
+        <target xml:lang="fr">Titre: %contentName%</target>
+        <note>key: notification.title</note>
+        <jms:reference-file>./Resources/public/js/plugins/dbp-notificationstructparserplugin.js</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
