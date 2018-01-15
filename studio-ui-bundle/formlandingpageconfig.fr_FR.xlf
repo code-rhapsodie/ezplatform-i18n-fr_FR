@@ -50,7 +50,7 @@
       </trans-unit>
       <trans-unit approved="yes" id="7d9d2e382fb370bddadfd267599a3b1af521f7e4" resname="selector.title">
         <source>Select a Layout</source>
-        <target xml:lang="fr">Sélectionner un Layout</target>
+        <target xml:lang="fr">Sélectionner un template de site</target>
         <note>key: selector.title</note>
         <jms:reference-file>./Resources/public/js/views/forms/ezs-landingpageconfigpopupformview.js</jms:reference-file>
       </trans-unit>
